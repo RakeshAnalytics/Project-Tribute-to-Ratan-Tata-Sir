@@ -8,6 +8,7 @@ About Tata Group: Discover the history and global influence of one of India's la
 Awards & Recognitions: A display of the numerous awards and honors that recognize Ratan Tata’s commitment to excellence and social responsibility.
 Tata Motors: Insights into one of India's most iconic automotive brands and its legacy under Tata’s leadership.
 Tata Stocks: Visualizations that reflect the market journey and growth of Tata Group companies.
+
 📍 Purpose of the Tribute
 This project is more than just data; it’s a tribute to Ratan Tata’s visionary leadership, resilience, and dedication to ethical business practices and community upliftment. Ratan Tata’s values and achievements continue to inspire me, and I hope this project honors his legacy while inspiring others as well.
 
